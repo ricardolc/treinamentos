@@ -23,3 +23,10 @@ MacBook-Pro-de-Ricardo:projeto1 ravistore$
 
 
 npm install -g @angular/cli@19.0.2
+
+https://angular.dev/installation
+
+
+ng é de angular
+MacBook-Pro-de-Ricardo:treinamentos ravistore$ ng --version
+19.0.2
