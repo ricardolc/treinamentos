@@ -21,3 +21,7 @@ https://nodejs.org/pt/download
 	   github theme
 	   material icon theme
 	   Angular Language Service
+
+
+
+ng serve --open
