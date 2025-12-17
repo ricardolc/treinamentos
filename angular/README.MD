@@ -29,5 +29,5 @@ ng serve --open
 criando novo componente
 ng generate component minhapagina
 
-/Users/ravistore/treinamentos/angular/projeto1/conceitos-basicos
+/Users/ravistore/treinamentos/angular/projeto1/conceitos-basicos.
 MacBook-Pro-de-Ricardo:conceitos-basicos ravistore$ ng generate component calculadora.
