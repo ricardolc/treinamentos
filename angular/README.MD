@@ -30,4 +30,4 @@ criando novo componente
 ng generate component minhapagina
 
 /Users/ravistore/treinamentos/angular/projeto1/conceitos-basicos
-MacBook-Pro-de-Ricardo:conceitos-basicos ravistore$ ng generate component calculadora
+MacBook-Pro-de-Ricardo:conceitos-basicos ravistore$ ng generate component calculadora.
