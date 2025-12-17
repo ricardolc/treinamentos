@@ -11,3 +11,5 @@ git config --global alias.lg "log --oneline --graph --decorate --all"
 alias gs="git status" && alias gc="git commit -m" && alias gp="git push"
 
 .clear
+
+..
