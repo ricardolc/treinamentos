@@ -22,6 +22,12 @@ https://nodejs.org/pt/download
 	   material icon theme
 	   Angular Language Service
 
-
+https://angular.dev/installation
 
 ng serve --open
+
+criando novo componente
+ng generate component minhapagina
+
+/Users/ravistore/treinamentos/angular/projeto1/conceitos-basicos
+MacBook-Pro-de-Ricardo:conceitos-basicos ravistore$ ng generate component calculadora
